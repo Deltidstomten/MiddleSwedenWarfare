@@ -1,4 +1,4 @@
--﻿capital = 4
+capital = 4
 
 oob = "SAP_1936"
 
