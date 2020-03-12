@@ -1,0 +1,9 @@
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		67 475 523 616 676 706 1486 1490 1776 2362 3041 3099 3856 4925 4933 4936 4954 5050 5056 5074 
+	}
+	manpower=100
+	state_category=town
+}

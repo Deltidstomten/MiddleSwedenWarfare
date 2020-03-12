@@ -1,0 +1,9 @@
+state={
+	id=82
+	name="STATE_82"
+	provinces={
+		2818 
+	}
+	manpower=100
+	state_category=town
+}

@@ -1,0 +1,9 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		167 277 740 846 904 1839 1994 2013 2150 2227 2267 2487 3123 5100 5131 5141 5152 5217 
+	}
+	manpower=100
+	state_category=town
+}

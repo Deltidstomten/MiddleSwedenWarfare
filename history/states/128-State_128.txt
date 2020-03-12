@@ -1,0 +1,9 @@
+state={
+	id=128
+	name="STATE_128"
+	provinces={
+		38 496 884 1023 2728 2916 2981 3118 3670 3938 4503 4510 4522 4550 4553 4611 
+	}
+	manpower=100
+	state_category=town
+}

@@ -1,0 +1,22 @@
+state={
+	id=48
+	name="STATE_48"
+	history={
+		owner = JMT
+		victory_points = {
+			3758 20
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+
+		}
+		add_core_of = JMT
+
+	}
+	provinces={
+		2787 3758 
+	}
+	manpower=100
+	state_category=town
+}

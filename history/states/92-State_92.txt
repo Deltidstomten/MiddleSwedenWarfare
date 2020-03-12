@@ -1,0 +1,9 @@
+state={
+	id=92
+	name="STATE_92"
+	provinces={
+		546 737 1014 1085 1142 1670 2399 2542 2828 3094 5622 5645 5653 
+	}
+	manpower=100
+	state_category=town
+}
