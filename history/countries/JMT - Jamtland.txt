@@ -1,4 +1,4 @@
-﻿capital = 48	
+﻿capital = 48
 
 oob = "JMT_1936"
 
@@ -13,7 +13,7 @@ set_technology = {
 	gw_artillery = 1
 	interwar_antiair = 1
 	tech_recon = 1
-	tech_support = 1		
+	tech_support = 1
 	tech_engineers = 1
 	gwtank = 1
 	basic_light_tank = 1
@@ -68,3 +68,44 @@ set_popularities = {
 }
 
 set_convoys = 25
+
+create_country_leader = {
+	name = "Mortimer Munck af Rosenschöld"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "mmar.dds"
+	expire = "1965.1.1"
+	ideology = Conservatism
+	#traits = {}
+}
+create_country_leader = {
+	name = "Yngve Gamlin"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "mot.dds"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	#traits = {}
+}
+create_country_leader = {
+	name = "Allah"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "fash.dds"
+	expire = "1965.1.1"
+	ideology = Rexism
+	#traits = {}
+}
+create_country_leader = {
+	name = "Artur Mangnusson"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "AM.dds"
+	expire = "1965.1.1"
+	ideology = Leninism
+	#traits = {}
+}
+#create_country_leader = {
+#	name = "Inger Edvardsson"
+#	desc = "POLITICS_KING_ZOG_DESC"
+#	picture = "commie.dds" # Note to self: Unkown woman file
+#	expire = "1965.1.1"
+#	ideology = Leninism
+#	#traits = {}
+#}
