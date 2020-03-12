@@ -1,8 +1,16 @@
 state={
 	id=105
 	name="STATE_105"
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = SWE
+	}
 	provinces={
-		858 1152 1704 5793 5798 
+		858 1152 1704 5793 5798
 	}
 	manpower=100
 	state_category=town
