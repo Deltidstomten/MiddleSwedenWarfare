@@ -1,8 +1,17 @@
 state={
 	id=43
 	name="STATE_43"
+	history={
+		owner = SAP
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		add_core_of = SAP
+
+	}
 	provinces={
-		75 150 345 625 2168 2447 2992 3645 3839 4989 5090 5118 5172 
+		75 150 345 625 2168 2447 2992 3645 3839 4989 5090 5118 5172
 	}
 	manpower=100
 	state_category=town

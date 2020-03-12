@@ -1,8 +1,17 @@
 state={
 	id=53
 	name="STATE_53"
+	history={
+		owner = JMT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		add_core_of = JMT
+
+	}
 	provinces={
-		71 76 428 459 733 760 770 926 1624 1705 2082 2473 2578 3121 3170 3939 5239 5264 5282 5297 5316 5317 5358 5369 5386 
+		71 76 428 459 733 760 770 926 1624 1705 2082 2473 2578 3121 3170 3939 5239 5264 5282 5297 5316 5317 5358 5369 5386
 	}
 	manpower=100
 	state_category=town
