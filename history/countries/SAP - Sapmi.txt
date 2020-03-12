@@ -1,4 +1,4 @@
-﻿capital = 4
+-﻿capital = 4
 
 oob = "SAP_1936"
 
@@ -62,10 +62,28 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 75
-	neutrality = 14
+	democratic = 14
+	neutrality = 75
 	communism = 8
 	fascism = 3
 }
 
 set_convoys = 25
+
+create_country_leader = {
+	name = "Ássá Gáhteriinná"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "oli.dds"
+	expire = "1965.1.1"
+	ideology = oligarchism
+	#traits = {}
+}
+
+create_country_leader = {
+	name = "Luviissá Dávdna"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "democrat.dds"
+	expire = "1965.1.1"
+	ideology = Conservatism
+	#traits = {}
+}

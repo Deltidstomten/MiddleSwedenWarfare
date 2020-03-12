@@ -68,3 +68,20 @@ set_popularities = {
 }
 
 set_convoys = 25
+
+create_country_leader = {
+	name = "Johannes Knudsen"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "knudsen.dds"
+	expire = "1965.1.1"
+	ideology = Conservatism
+	#traits = {}
+}
+create_country_leader = {
+	name = "Schrøder Berg"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "berg.dds"
+	expire = "1965.1.1"
+	ideology = Rexism
+	#traits = {}
+}
