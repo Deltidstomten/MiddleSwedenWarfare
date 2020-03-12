@@ -1,9 +1,23 @@
 state={
 	id=29
 	name="STATE_29"
+	history={
+		owner = JMT
+		victory_points = {
+			5007 10
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+
+		}
+		add_core_of = JMT
+
+	}
 	provinces={
-		126 432 540 997 1025 1068 2323 2600 2732 2970 3040 3361 3503 3544 3891 4812 4879 4947 5001 5007 
+		126 432 540 997 1025 1068 2323 2600 2732 2970 3040 3361 3503 3544 3891 4812 4879 4947 5001 5007
 	}
 	manpower=100
+
 	state_category=town
 }
