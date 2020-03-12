@@ -68,3 +68,21 @@ set_popularities = {
 }
 
 set_convoys = 25
+
+create_country_leader = {
+	name = "Gösta Thalén"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "grabben.dds"
+	expire = "1965.1.1"
+	ideology = Conservatism
+	#traits = {}
+}
+
+create_country_leader = {
+	name = "Franz Af Olofsberg"
+	desc = "POLITICS_KING_ZOG_DESC"
+	picture = "nygrabb.dds"
+	expire = "1965.1.1"
+	ideology = Rexism
+	#traits = {}
+}
