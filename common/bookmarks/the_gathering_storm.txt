@@ -13,6 +13,16 @@ bookmarks = {
 		"FRO"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
+		"SAP"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		"SWE"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+		"TRO"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }
