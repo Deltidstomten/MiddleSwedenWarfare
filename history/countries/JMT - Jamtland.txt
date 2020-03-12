@@ -87,11 +87,13 @@ create_country_leader = {
 }
 create_country_leader = {
 	name = "Gunnar Eklöf"
-	desc = "POLITICS_KING_ZOG_DESC"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "eklof.dds"
 	expire = "1965.1.1"
-	ideology = Rexism
-	#traits = {}
+	ideology = nazism
+	traits = {
+		dictator
+	}
 }
 create_country_leader = {
 	name = "Artur Mangnusson"
