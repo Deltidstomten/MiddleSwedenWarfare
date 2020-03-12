@@ -10,3 +10,7 @@ FRO = {
 	color = rgb { 0 63 143 }
 	color_ui = rgb { 30 93 173 }
 }
+SAP = {
+	color = rgb { 128 0 128 }
+	color_ui = rgb { 158 30 158 }
+}
