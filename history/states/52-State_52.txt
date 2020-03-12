@@ -1,8 +1,19 @@
 state={
 	id=52
 	name="STATE_52"
+	history={
+		owner = FRO
+		buildings = {
+			infrastructure = 5
+			5126 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = FRO
+
+	}
 	provinces={
-		5126 
+		5126
 	}
 	manpower=100
 	state_category=town
