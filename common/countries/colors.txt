@@ -14,3 +14,7 @@ SAP = {
 	color = rgb { 128 0 128 }
 	color_ui = rgb { 158 30 158 }
 }
+SWE = {
+	color = rgb { 36 132 247 }
+	color_ui = rgb { 47 172 255 }
+}

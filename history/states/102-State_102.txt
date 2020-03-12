@@ -1,8 +1,23 @@
 state={
 	id=102
 	name="STATE_102"
+	history={
+		owner = SWE
+		victory_points = {
+			3899 20
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			3758 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = SWE
+
+	}
 	provinces={
-		2925 3899 
+		2925 3899
 	}
 	manpower=100
 	state_category=town
