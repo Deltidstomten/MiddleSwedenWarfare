@@ -1,0 +1,50 @@
+### Starting Production ###
+instant_effect = {
+	### Under Construction Notes ###
+	# DD: Göteborg class (x1) ("HMS Göteborg")
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "SWE"
+			version_name = "Göteborg Class"
+		}
+		name = "HMS Göteborg"
+		requested_factories = 1
+		progress = 0.50
+		amount = 1
+	}
+	# SS: Draken variant (x3) ("HMS Delfinen" "HMS Nordkaparen" "HMS Springaren")
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_submarine_2
+			creator = "SWE"
+			version_name = "Draken Class"
+		}
+		name = "HMS Delfinen"
+		requested_factories = 1
+		progress = 0.80
+		amount = 1
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_submarine_2
+			creator = "SWE"
+			version_name = "Draken Class"
+		}
+		name = "HMS Nordkaparen"
+		requested_factories = 1
+		progress = 0.60
+		amount = 1
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_submarine_2
+			creator = "SWE"
+			version_name = "Draken Class"
+		}
+		name = "HMS Springaren"
+		requested_factories = 1
+		progress = 0.40
+		amount = 1
+	}
+}
