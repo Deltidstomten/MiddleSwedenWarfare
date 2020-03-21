@@ -22,3 +22,7 @@ TRO = {
 	color = rgb { 255 255 255 }
 	color_ui = rgb { 255 255 255 }
 }
+HAR = {
+	color = rgb { 108 125 86 }
+	color_ui = rgb { 138 155 116 }
+}
